@@ -6,6 +6,10 @@
 
 int main()
 {
+	
+// Function prototype for randchar
+char randchar();
+
 	int a;
 
 	/* seed the randomizer */
